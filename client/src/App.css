@@ -1,0 +1,42 @@
+body {
+  background-color: #121212;
+  color: #efe9e9;
+  font-family: Arial, sans-serif;
+}
+
+input, button {
+  padding: 10px;
+  margin: 5px;
+}
+
+button {
+  background-color: #1e1e1e;
+  color: #ffffff;
+  border: none;
+  cursor: pointer;
+}
+
+button:hover {
+  background-color: #333333;
+}
+
+.landing-page, .quiz-page, .admin-page {
+  text-align: center;
+  padding: 20px;
+}
+
+ul {
+  list-style: none;
+  padding: 0;
+}
+
+li {
+  background-color: #1e1e1e;
+  margin: 5px 0;
+  padding: 10px;
+  cursor: pointer;
+}
+
+li:hover {
+  background-color: #333333;
+}

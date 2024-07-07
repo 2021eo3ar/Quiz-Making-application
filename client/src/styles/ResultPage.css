@@ -1,0 +1,46 @@
+body {
+
+  font-family: Arial, sans-serif;
+}
+
+.result-container {
+  padding: 20px;
+  text-align: center;
+}
+
+.result-container h1 {
+  margin-bottom: 20px;
+ 
+}
+
+.result-card {
+   color: white;
+  padding: 20px;
+  margin: 10px 0;
+}
+
+.result-card h2 {
+  margin-bottom: 10px;
+}
+
+.result-card p {
+  margin: 5px 0;
+}
+
+.go-home-button {
+  margin-top: 20px;
+  padding: 10px 20px;
+  background-color: #444;
+  color: #fff;
+  border-radius: 5px;
+  border: none;
+  cursor: pointer;
+}
+
+.go-home-button:hover {
+  background-color: #555;
+}
+
+h1 {
+  color: white;
+}
